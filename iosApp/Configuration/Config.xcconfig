@@ -1,0 +1,7 @@
+TEAM_ID=
+
+PRODUCT_NAME=KewetiNeighbor
+PRODUCT_BUNDLE_IDENTIFIER=dev.vastmo.keweti_neighbor.KewetiNeighbor$(TEAM_ID)
+
+CURRENT_PROJECT_VERSION=1
+MARKETING_VERSION=1.0
